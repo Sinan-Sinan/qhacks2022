@@ -31,7 +31,7 @@ db.schema.hasTable('users').then(function(exists) {
 });
 
 
-const port = 5000;
+const port = 8080;
 
 const app = express();
 app.use(fileUpload());
