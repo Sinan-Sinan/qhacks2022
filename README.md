@@ -1,4 +1,4 @@
-# qhacks2022 - Friendzr
+# QHacks2022 - Friendzr
 Team#25's submission for Queen's annual Hackathon.
 
 #  Inspiration
